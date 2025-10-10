@@ -1,6 +1,6 @@
 # Publications
 
-Dépôt contenant les publications de la Fédération des Jeunes Révolutionnaires.
+Dépôt contenant les publications de la Fédération des Jeunes Révolutionnaires - IVe Internationale.
 
 ## Historique des publications
 
