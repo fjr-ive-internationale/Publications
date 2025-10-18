@@ -4,6 +4,11 @@ Publications publiées par la FJR au niveau national.
 
 ## 2025
 
+### Octobre 2025
+
+* **08/10/2025** : Déclaration de la Fédération des Jeunes Révolutionnaires – IVe Internationae  
+  [Version texte](format-texte/2025/2025-10-08---declaration-fjr.md)
+
 ### Septembre 2025
 
 * **12/09/2025** : Appel interorga  
